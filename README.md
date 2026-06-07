@@ -1,7 +1,11 @@
+<img width="3000" height="1000" alt="banner" src="https://github.com/user-attachments/assets/3526194b-107d-4dc1-bd77-52b7f8f708ba" />
+
 ## Olá! 👋
 
 Me chamo Eric e atualmente sou um estudante de Análise e Desenvolvimento de Sistemas, buscando me tornar
 um Desenvolvedor Full Stack, capaz de solucionar diversos problemas e criar soluções inovadoras. 
+
+
 
 
 
