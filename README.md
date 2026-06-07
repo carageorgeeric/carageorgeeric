@@ -1,10 +1,11 @@
 <img width="3000" height="1000" alt="banner" src="https://github.com/user-attachments/assets/3526194b-107d-4dc1-bd77-52b7f8f708ba" />
 
+
 <h2> Sobre Mim </h2>
 <table>
   <tr>
     <td width="300">
-      <img src="https://github.com/user-attachments/assets/ecbe6128-3a60-487f-a98c-226a871ecccd" width="280"/>
+      <img src="https://github.com/user-attachments/assets/b771f93e-7601-4d33-9aa3-69a44db3f68b" width="280"/>
     </td>
     <td>
       <h2>Olá, eu me chamo Eric!</h2>
