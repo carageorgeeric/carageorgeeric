@@ -1,4 +1,10 @@
-## Hi there 👋
+## Olá! 👋
+
+Me chamo Eric e atualmente sou um estudante de Análise e Desenvolvimento de Sistemas, buscando me tornar
+um Desenvolvedor Full Stack, capaz de solucionar diversos problemas e criar soluções inovadoras. 
+
+
+
 
 <!--
 **carageorgeeric/carageorgeeric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
