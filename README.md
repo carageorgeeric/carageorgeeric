@@ -1,10 +1,23 @@
 <img width="3000" height="1000" alt="banner" src="https://github.com/user-attachments/assets/3526194b-107d-4dc1-bd77-52b7f8f708ba" />
 
-## Olá! 👋
+<h2 align="center">Sobre Mim</h2>
 
-Me chamo Eric e atualmente sou um estudante de Análise e Desenvolvimento de Sistemas, buscando me tornar
-um Desenvolvedor Full Stack, capaz de solucionar diversos problemas e criar soluções inovadoras. 
-
+<table>
+  <tr>
+    <td width="300">
+      <img src="https://github.com/user-attachments/assets/ecbe6128-3a60-487f-a98c-226a871ecccd" width="280"/>
+    </td>
+    <td>
+      <h2>Olá, eu me chamo Eric!</h2>
+      <h4>🛠️ Meu objetivo é me tornar um desenvolvedor Full Stack</h4>
+      <p>
+        Atualmente trabalho desenvolvendo soluções web, agentes de Inteligência
+        Artificial e automações com N8N
+      </p>
+      <p><em>"You can't spell Million without a couple L's".</em></p>
+    </td>
+  </tr>
+</table>
 
 
 
