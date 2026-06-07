@@ -1,6 +1,6 @@
 <img width="3000" height="1000" alt="banner" src="https://github.com/user-attachments/assets/3526194b-107d-4dc1-bd77-52b7f8f708ba" />
 
-
+<h2> Sobre Mim </h2>
 <table>
   <tr>
     <td width="300">
@@ -18,6 +18,38 @@
   </tr>
 </table>
 
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=55&text=TECH%20STACK&fontSize=35&fontColor=ffffff&fontFamily=monospace" width="100%"/>
+</h2>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Linguagens</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Ferramentas</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 
 
