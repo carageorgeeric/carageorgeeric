@@ -14,7 +14,8 @@
         Atualmente trabalho desenvolvendo soluções web, agentes de Inteligência
         Artificial e automações com N8N. Tenho experiência prévia com marketing digital, 
         e transformei um simples brinquedo em um negócio que faturou mais de 30K R$. 
-        Atingirei patamares maiores com meus softwares.
+        Atingirei patamares maiores com meus softwares. Mas antes de iniciar essa história
+        estou aberto para trabalhar nas áreas de Desenvolvimento e Inteligência Artificial.
       </p>
       <p><em>"You can't spell Million without a couple L's".</em></p>
     </td>
