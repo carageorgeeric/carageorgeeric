@@ -11,11 +11,10 @@
       <h2>Olá, eu me chamo Eric!</h2>
       <h4>🛠️ Meu objetivo é me tornar um Founder </h4>
       <p>
-        Atualmente trabalho desenvolvendo soluções web, agentes de Inteligência
-        Artificial e automações com N8N. Tenho experiência prévia com marketing digital, 
-        e transformei um simples brinquedo em um negócio que faturou mais de 30K R$. 
-        Atingirei patamares maiores com meus softwares. Mas antes de iniciar essa história
-        estou aberto para trabalhar nas áreas de Desenvolvimento e Inteligência Artificial.
+        Atualmente trabalho desenvolvendo Soluções web, Agentes de Inteligência
+        Artificial e automações com N8N. Também tenho experiência prática com 
+        marketing e transformei um brinquedo em um negócio de 5 digitos organicamente. 
+        Sou apaixonado por Softwares e Produção de Conteúdo
       </p>
       <p><em>"You can't spell Million without a couple L's".</em></p>
     </td>
